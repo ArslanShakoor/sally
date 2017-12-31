@@ -5,7 +5,7 @@
 1: Easy to follow design and looks pleasant.
 
 
-2: Every things is looking straight forward without any complication.
+2: Every thing is looking straight forward without any complication.
 
 
 3: details are distributed within relevant section.
