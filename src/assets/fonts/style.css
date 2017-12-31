@@ -1,0 +1,41 @@
+/* thin */
+@font-face {
+  font-family: ProximaNova;
+  font-weight: 100;
+  src: url("Proxima/ProximaNovaThin.otf") format("opentype");
+}
+
+/* light */
+@font-face {
+  font-family: ProximaNova;
+  font-weight: 300;
+  src: url("Proxima/ProximaNovaLight.otf") format("opentype");
+}
+
+/* regular */
+@font-face {
+  font-family: ProximaNova;
+  font-weight: 400;
+  src: url("Proxima/ProximaNova.otf") format("opentype");
+}
+
+/* medium */
+@font-face {
+  font-family: ProximaNova;
+  font-weight: 500;
+  src: url("Proxima/ProximaNovaMedium.otf") format("opentype");
+}
+
+/* semibold */
+@font-face {
+  font-family: ProximaNova;
+  font-weight: 600;
+  src: url("Proxima/ProximaNovaSemibold.otf") format("opentype");
+}
+
+/* bold */
+@font-face {
+  font-family: ProximaNova;
+  font-weight: 700;
+  src: url("Proxima/ProximaNovaBold.otf") format("opentype");
+}
