@@ -3,14 +3,14 @@ import rentals from '../data/rentals';
 import _ from 'lodash';
 // async await syntax
 
-export const deleteRental = props => async dispatch => {
-  let data = await rentals;
+export const deleteRental = props => dispatch => {
+  let data = rentals;
   const res = spliceArray(data, props);
   dispatch({ type: REMOVE_RENTALS, payload: res });
 };
 
-export const editRental = props => async dispatch => {
-  let data = await rentals;
+export const editRental = props => dispatch => {
+  let data = rentals;
   const res = editArray(data, props);
   dispatch({ type: REMOVE_RENTALS, payload: res });
 };
